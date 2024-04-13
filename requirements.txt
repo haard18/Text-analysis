@@ -1,0 +1,8 @@
+Pandas
+Requests
+BeautifulSoup4
+fake-useragent
+nltk
+lxml
+xlrd
+openpyxl
